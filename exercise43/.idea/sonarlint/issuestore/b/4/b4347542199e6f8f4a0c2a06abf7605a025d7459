@@ -1,0 +1,20 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¡Œü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Äá´ì
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(×³ş¤
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ËŞ‹íüÿÿÿÿ
+\	java:S899,"BDo something with the "boolean" value returned by "createNewFile".(„øÄ¥ûÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(™†Èš
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(÷Òëô
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¼¤ß¥ıÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ìÄ÷”
+F
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+F
+java:S1128	"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+_
+java:S1192&"IDefine a constant instead of duplicating this literal "website/" 4 times.(ùñ¾×
+i
+java:S11923"SDefine a constant instead of duplicating this literal "Created ./website/" 3 times.(÷Òëô
+c
+java:S2095-"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(œÍĞÅøÿÿÿÿ

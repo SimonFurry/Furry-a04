@@ -1,0 +1,11 @@
+
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ë²•²úÿÿÿÿ
+h
+java:S62040"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(—åŠ¥
+^
+java:S53610"HReplace this call to "replaceAll()" by a call to the "replace()" method.(—åŠ¥
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÑÊôÿÿÿÿÿ
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ÄÅÑøÈ/
+a
+java:S2095/"DUse try-with-resources or close this "Stream" in a "finally" clause.(èù¸¯8êõËøÈ/

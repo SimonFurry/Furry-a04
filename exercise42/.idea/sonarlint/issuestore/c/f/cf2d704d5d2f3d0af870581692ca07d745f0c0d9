@@ -1,0 +1,23 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(þÛÑðýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(÷ÂøÉ
+a
+java:S1659("FDeclare "firstName" and all following declarations on a separate line.(àþÃÎùÿÿÿÿ
+^
+java:S5361."HReplace this call to "replaceAll()" by a call to the "replace()" method.(‘ž‹ƒ
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
+F
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+A
+java:S1068"&Remove this unused "in" private field.(„ï”¸úÿÿÿÿ
+`
+java:S2095""EUse try-with-resources or close this "Scanner" in a "finally" clause.(œžú°þÿÿÿÿ
+b
+java:S2095 "LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ªÌ±‡
+c
+java:S2095!"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¼Îð¤üÿÿÿÿ

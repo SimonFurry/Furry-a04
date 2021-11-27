@@ -1,0 +1,15 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
++class main{
+function init
++organizeNames()
+}
++class organizeNames{
+sort names alphabetically from input file
+simple input output statement
+}
+
+organizeNames -> main
+
+@enduml

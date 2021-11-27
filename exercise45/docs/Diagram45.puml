@@ -1,0 +1,15 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
++class main{
+function init
++findReplace()
+}
++class findReplace{
+prompt for filename
+read input and generate new file with filename
+ replacing all found words
+}
+
+findReplace -> main
+@enduml

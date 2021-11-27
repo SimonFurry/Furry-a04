@@ -1,0 +1,14 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
++class main{
+function init
++fileParser()
+}
++class fileParser{
+Sort through input file, splitting at ','
+print into table
+}
+
+fileParser -> main
+@enduml

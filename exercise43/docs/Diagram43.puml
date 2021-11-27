@@ -1,0 +1,14 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
++class main{
+function init
++generateWebsiteSkeleton()
+}
++class generateWebsiteSkeleton{
+Prompt user for the name, author, and
+files they may want
+}
+
+generateWebsiteSkeleton -> main
+@enduml

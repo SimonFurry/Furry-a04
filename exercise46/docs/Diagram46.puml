@@ -1,0 +1,15 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
++class main{
+function init
++frequencyCounter()
+}
++class frequencyCounter{
+read input file
+count frequency of a word.
+print results.
+}
+
+frequencyCounter -> main
+@enduml
